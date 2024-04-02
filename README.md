@@ -12,13 +12,13 @@ Repositorio donde se guardarán lecciones, laboratorios y material del curso
 ## Evaluación
 
 ### Quiz 1 
-- Fecha: lunes 01 de abril 2024
+- Fecha: Martes 02 de abril 2024
 - Tiempo: 30 minutos
 - Modalidad: 10 preguntas en total (opción múltiple y abiertas)
 - Peso del Quiz: 25%
 
 ### Quiz 2
-- Fecha: lunes 08 de abril 2024
+- Fecha: Martes 09 de abril 2024
 - Tiempo: 30 minutos
 - Modalidad: 10 preguntas en total (opción múltiple y abiertas)
 - Peso del Quiz: 25%
