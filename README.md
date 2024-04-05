@@ -18,7 +18,7 @@ Repositorio donde se guardarán lecciones, laboratorios y material del curso
 - Peso del Quiz: 25%
 
 ### Quiz 2
-- Fecha: Martes 09 de abril 2024
+- Fecha: Lunes 08 de abril 2024
 - Tiempo: 30 minutos
 - Modalidad: 10 preguntas en total (opción múltiple y abiertas)
 - Peso del Quiz: 25%
